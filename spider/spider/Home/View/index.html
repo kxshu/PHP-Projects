@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>show data</title>
+</head>
+<body>
+	<hr/>
+	<volist name="data" id="data">
+	    <table>
+			 <tr>
+			    <td>网站id:</td>
+			    <td width="70%">{$data.id}</td>
+			    <td rowspan="5"><button>查看</button></td>
+			 </tr>
+			 <tr>
+			    <td>网站名称：</td>
+			    <td>{$data.name}</td>
+			 </tr>
+			 <tr>
+			    <td>网站地址：</td>
+			    <td>{$data.url}</td>
+			 </tr>
+			 <tr>
+			    <td>网站描述：</td>
+			    <td>{$data.description}</td>
+			 </tr>
+			 <tr>
+			    <td>创建时间：</td>
+			    <td>{$data.createtime}</td>
+			 </tr>
+			 </table>
+			 <hr/>
+		</volist>
+</body>
+</html>

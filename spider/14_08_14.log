@@ -1,0 +1,114 @@
+[ 2014-08-14T00:18:34+08:00 ] 127.0.0.1 /spider/index.php/form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:24:54+08:00 ] 127.0.0.1 /spider/index.php/form/form/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:25:06+08:00 ] 127.0.0.1 /spider/index.php/form/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:25:23+08:00 ] 127.0.0.1 /spider/index.php/Form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:26:15+08:00 ] 127.0.0.1 /spider/index.php/Form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:26:21+08:00 ] 127.0.0.1 /spider/index.php/Form/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:26:22+08:00 ] 127.0.0.1 /spider/index.php/Form/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:26:26+08:00 ] 127.0.0.1 /spider/index.php/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+ERR: 无法加载模块:Show
+
+[ 2014-08-14T00:26:32+08:00 ] 127.0.0.1 /spider/index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: 无法加载模块:A
+
+[ 2014-08-14T00:26:37+08:00 ] 127.0.0.1 /spider/index.php/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:Aaa
+
+[ 2014-08-14T00:33:07+08:00 ] 127.0.0.1 /spider/index.php/form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:34:31+08:00 ] 127.0.0.1 /spider/index.php/form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:35:01+08:00 ] 127.0.0.1 /spider/index.php/form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T00:35:02+08:00 ] 127.0.0.1 /spider/index.php/form/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Form
+
+[ 2014-08-14T01:18:03+08:00 ] 127.0.0.1 /spider/index.php/view/form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+ERR: 无法加载模块:View
+
+[ 2014-08-14T01:18:09+08:00 ] 127.0.0.1 /spider/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+ERR: 无法加载模块:View
+
+[ 2014-08-14T01:18:13+08:00 ] 127.0.0.1 /spider/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:View
+
+[ 2014-08-14T01:18:30+08:00 ] 127.0.0.1 /spider/index.php/View
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:View
+
+[ 2014-08-14T01:19:22+08:00 ] 127.0.0.1 /spider/index.php/view/index/show/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:View
+
