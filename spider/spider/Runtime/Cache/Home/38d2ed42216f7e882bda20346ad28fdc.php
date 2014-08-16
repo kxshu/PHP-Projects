@@ -2,14 +2,18 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>add</title>
+	<title>update</title>
 </head>
 <body>
 
 	<a href="/spider/index.php/Home/Form/show">【查看数据】</a>
 	<hr/>
-	<form method="post" action="/spider/index.php/Home/Form/insert">
+	<form method="post" action="/spider/index.php/Home/Form/update/id/<?php echo ($_GET['id']); ?>">
 		<table>
+			<tr>
+				<td><label for="#">网站ID：</label></td>
+				<td><input name="id" type="text" value="<?php echo ($_GET['id']); ?>" ></td>
+			</tr>
 			<tr>
 				<td><label for="#">网站名：</label></td>
 				<td><input name="Name" type="text"></td>

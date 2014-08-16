@@ -12,6 +12,6 @@ class SitesModel extends Model {
         );
     // 定义自动完成
     protected $_auto    =   array(
-        array('CreateTime','date',1,'function',array('Y-m-d H:i:s')),
+        array('CreateTime','date',3,'function',array('Y-m-d H:i:s')),
         );
 }

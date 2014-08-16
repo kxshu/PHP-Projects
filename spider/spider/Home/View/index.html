@@ -5,32 +5,39 @@
 	<title>show data</title>
 </head>
 <body>
+	<a href="__URL__/index">+新增数据</a>
 	<hr/>
-	<volist name="data" id="data">
-	    <table>
-			 <tr>
-			    <td>网站id:</td>
-			    <td width="70%">{$data.id}</td>
-			    <td rowspan="5"><button>查看</button></td>
-			 </tr>
-			 <tr>
-			    <td>网站名称：</td>
-			    <td>{$data.name}</td>
-			 </tr>
-			 <tr>
-			    <td>网站地址：</td>
-			    <td>{$data.url}</td>
-			 </tr>
-			 <tr>
-			    <td>网站描述：</td>
-			    <td>{$data.description}</td>
-			 </tr>
-			 <tr>
-			    <td>创建时间：</td>
-			    <td>{$data.createtime}</td>
-			 </tr>
-			 </table>
-			 <hr/>
-		</volist>
+
+	
+		<volist name="data" id="data">
+		<form method="post" action="__URL__/delete/id/{$data.id}">
+		    <table>
+				 <tr>
+				    <td>网站id:</td>
+				    <td width="70%">{$data.id}</td>
+				    <td rowspan="5"><a href="__URL__/updateform/id/{$data.id}">编辑</a></td>
+				    <td rowspan="5"><button type="submit">删除</button></td>
+				 </tr>
+				 <tr>
+				    <td>网站名称：</td>
+				    <td>{$data.name}</td>
+				 </tr>
+				 <tr>
+				    <td>网站地址：</td>
+				    <td>{$data.url}</td>
+				 </tr>
+				 <tr>
+				    <td>网站描述：</td>
+				    <td>{$data.description}</td>
+				 </tr>
+				 <tr>
+				    <td>创建时间：</td>
+				    <td>{$data.createtime}</td>
+				 </tr>
+				 </table>
+				 <hr/>
+
+	</form>
+			</volist>
 </body>
 </html>
