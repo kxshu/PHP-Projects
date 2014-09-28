@@ -1,0 +1,6 @@
+[ 2014-08-19T09:45:49+08:00 ] 127.0.0.1 /spider/index.php/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: 无法加载模块:Show
+

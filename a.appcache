@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+# VERSION 1.8
+
+# 直接缓存的文件
+CACHE:
+b.html
+http://su.bdimg.com/static/superplus/img/logo_white.png
+#js/main.js
+#css/layout.css
+
+# 需要在时间在线的文件
+NETWORK:
+a.html
+
+# 替代方案
+FALLBACK:
+/* /c.html

@@ -5,16 +5,16 @@
 	<title>show data</title>
 </head>
 <body>
-	<a href="/spider/index.php/Home/Form/index">+新增数据</a>
+	<a href="/spider/index.php/Home/Index/index">+新增数据</a>
 	<hr/>
 
-	
-		<?php if(is_array($data)): $i = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$data): $mod = ($i % 2 );++$i;?><form method="post" action="/spider/index.php/Home/Form/delete/id/<?php echo ($data["id"]); ?>">
+		
+		<?php if(is_array($data)): $i = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$data): $mod = ($i % 2 );++$i;?><form method="post" action="/spider/index.php/Home/Index/delete/id/<?php echo ($data["id"]); ?>">
 		    <table>
 				 <tr>
 				    <td>网站id:</td>
 				    <td width="70%"><?php echo ($data["id"]); ?></td>
-				    <td rowspan="5"><a href="/spider/index.php/Home/Form/updateform/id/<?php echo ($data["id"]); ?>">编辑</a></td>
+				    <td rowspan="5"><a href="/spider/index.php/Home/Index/updateform/id/<?php echo ($data["id"]); ?>">编辑</a></td>
 				    <td rowspan="5"><button type="submit">删除</button></td>
 				 </tr>
 				 <tr>

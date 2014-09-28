@@ -1,0 +1,1849 @@
+[ 2014-09-17T12:56:14+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2014-09-17T12:56:33+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033957s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001412s ]
+
+[ 2014-09-17T16:43:20+08:00 ] 127.0.0.1 /spider/index.php/home/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2014-09-17T16:54:39+08:00 ] 127.0.0.1 /spider/index.php/home/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2014-09-17T17:51:30+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2014-09-17T17:51:40+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2014-09-17T17:54:46+08:00 ] 127.0.0.1 /spider/index.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载控制器:Home
+
+[ 2014-09-17T17:55:36+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:55:39+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:55:43+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:56:17+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:56:25+08:00 ] 127.0.0.1 /spider/index.php/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载控制器:Step1
+
+[ 2014-09-17T17:56:27+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:56:32+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T17:57:43+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: 非法操作:install
+
+[ 2014-09-17T17:57:54+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:install
+
+[ 2014-09-17T17:57:56+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:install
+
+[ 2014-09-17T17:59:51+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:install
+
+[ 2014-09-17T17:59:53+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:install
+
+[ 2014-09-17T17:59:56+08:00 ] 127.0.0.1 /spider/index.php/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:step1
+
+[ 2014-09-17T18:00:03+08:00 ] 127.0.0.1 /spider/index.php/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:step1
+
+[ 2014-09-17T18:02:04+08:00 ] 127.0.0.1 /spider/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2014-09-17T18:02:08+08:00 ] 127.0.0.1 /spider/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2014-09-17T18:02:15+08:00 ] 127.0.0.1 /spider/index.php/home/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:home
+
+[ 2014-09-17T18:02:20+08:00 ] 127.0.0.1 /spider/index.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:home
+
+[ 2014-09-17T18:02:24+08:00 ] 127.0.0.1 /spider/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2014-09-17T18:02:46+08:00 ] 127.0.0.1 /spider/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2014-09-17T18:03:03+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:reg2
+
+[ 2014-09-17T18:03:17+08:00 ] 127.0.0.1 /spider/index.php/home/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:home
+
+[ 2014-09-17T18:03:18+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:reg2
+
+[ 2014-09-17T18:04:05+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2014-09-17T18:04:24+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:04:41+08:00 ] 127.0.0.1 /spider/index.php/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载控制器:Step1
+
+[ 2014-09-17T18:04:47+08:00 ] 127.0.0.1 /spider/index.php/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2014-09-17T18:04:50+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2014-09-17T18:04:56+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2014-09-17T18:05:32+08:00 ] 127.0.0.1 /spider/index.php/install/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:05:36+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:05:40+08:00 ] 127.0.0.1 /spider/index.php/Install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:05:51+08:00 ] 127.0.0.1 /spider/index.php/Install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:05:56+08:00 ] 127.0.0.1 /spider/index.php/Install/install
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:06:13+08:00 ] 127.0.0.1 /spider/index.php/Install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:07:31+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:07:32+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:07:43+08:00 ] 127.0.0.1 /spider/index.php/Install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:07:48+08:00 ] 127.0.0.1 /spider/index.php/Install/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:07:54+08:00 ] 127.0.0.1 /spider/index.php/index/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+ERR: 非法操作:step1
+
+[ 2014-09-17T18:07:58+08:00 ] 127.0.0.1 /spider/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /Users/kx/workspace/php/spider/spider/Home/Controller/IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2014-09-17T18:08:17+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载控制器:Install
+
+[ 2014-09-17T18:09:53+08:00 ] 127.0.0.1 /spider/index.php/home/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2014-09-17T18:13:46+08:00 ] 127.0.0.1 /spider/index.php/home/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2014-09-17T18:14:58+08:00 ] 127.0.0.1 /spider/index.php/home/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2014-09-17T18:15:03+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2014-09-17T18:16:06+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2014-09-17T18:16:24+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/update/id/85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0031s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 864 行.
+SQL: UPDATE `users` SET `NickName`=aaaa,`Password`=47bce5c74f589f4867dbd57e9ca9f808,`CreateTime`=2014-09-17 18:16:24 WHERE ( id=85 ) [ RunTime:0.0104s ]
+
+[ 2014-09-17T18:16:30+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/update/id/85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0027s ]
+
+[ 2014-09-17T18:16:40+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/update/id/85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 864 行.
+SQL: UPDATE `users` SET `NickName`=aaa,`Password`=47bce5c74f589f4867dbd57e9ca9f808,`CreateTime`=2014-09-17 18:16:40 WHERE ( id=85 ) [ RunTime:0.0009s ]
+
+[ 2014-09-17T18:16:46+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/update/id/85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 864 行.
+SQL: UPDATE `users` SET `NickName`=a,`Password`=0cc175b9c0f1b6a831c399e269772661,`CreateTime`=2014-09-17 18:16:46 WHERE ( id=85 ) [ RunTime:0.0014s ]
+
+[ 2014-09-17T18:17:02+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/delete/id/85?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 890 行.
+SQL: DELETE FROM `users` WHERE `id` = 85 [ RunTime:0.0013s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::ajaxReturn(), called in /Users/kx/workspace/php/spider/spider/Home/Controller/Reg2Controller.class.php on line 67 and defined /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Controller.class.php 第 209 行.
+NOTIC: [8] Undefined variable: data /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Controller.class.php 第 215 行.
+
+[ 2014-09-17T18:17:08+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aa' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2014-09-17T18:17:13+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0412s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:17:16+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0101s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2014-09-17T18:17:18+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:17:21+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaaaaaa' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 787 行.
+SQL: INSERT INTO `users` (`Name`,`NickName`,`Password`,`CreateTime`) VALUES (aaaaaaaaa,a,0cc175b9c0f1b6a831c399e269772661,2014-09-17 18:17:21) [ RunTime:0.0028s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2014-09-17T18:18:49+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:18:50+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:18:51+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:18:53+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:18:54+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:18:55+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2014-09-17T18:19:09+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0098s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaa' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2014-09-17T18:19:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0091s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:19:14+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:19:16+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0106s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:19:19+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:19:20+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0113s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2014-09-17T18:19:24+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:19:28+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:19:33+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:19:37+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0045s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:20:01+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2014-09-17T18:20:14+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0102s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2014-09-17T18:20:23+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:20:26+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0024s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:20:28+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:20:29+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:20:36+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2014-09-17T18:20:42+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:22:57+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2014-09-17T18:24:02+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2014-09-17T18:24:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0116s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:24:07+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:24:08+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:24:10+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0099s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:24:11+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0098s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:24:14+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0085s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:24:51+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0107s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2014-09-17T18:25:05+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000225s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2014-09-17T18:25:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2014-09-17T18:25:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:25:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:07+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2014-09-17T18:25:09+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0104s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:10+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0098s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2014-09-17T18:25:10+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0102s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:11+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:11+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0088s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:11+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0099s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2014-09-17T18:25:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2014-09-17T18:25:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:25:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2014-09-17T18:25:12+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:13+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2014-09-17T18:25:35+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2014-09-17T18:25:40+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:25:42+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0108s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:25:45+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'a' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:25:47+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:49+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:25:51+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:25:53+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:25:55+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0101s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaa' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2014-09-17T18:25:58+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:26:00+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:26:02+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:26:04+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0087s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:04+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0101s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:05+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0098s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:06+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:26:07+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:08+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:55+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2014-09-17T18:26:58+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:26:59+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0103s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2014-09-17T18:27:00+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2014-09-17T18:27:00+08:00 ] 127.0.0.1 /spider/index.php/Home/Reg2/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` WHERE `Name` = 'aaaa' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2014-09-17T18:36:17+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0095s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2014-09-17T18:36:26+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2014-09-17T18:38:03+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2014-09-17T18:38:40+08:00 ] 127.0.0.1 /spider/index.php/home/reg2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: fetch_sql /Users/kx/workspace/php/thinkphp/ThinkPHP/Library/Think/Db/Driver.class.php 第 902 行.
+SQL: SELECT * FROM `users` ORDER BY id desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+

@@ -6,9 +6,9 @@
 </head>
 <body>
 
-	<a href="/spider/index.php/Home/Form/show">【查看数据】</a>
+	<a href="/spider/index.php/Home/Users/show">【查看数据】</a>
 	<hr/>
-	<form method="post" action="/spider/index.php/Home/Form/update/id/<?php echo ($_GET['id']); ?>">
+	<form method="post" action="/spider/index.php/Home/Users/update/id/<?php echo ($_GET['id']); ?>">
 		<table>
 			<tr>
 				<td><label for="#">网站ID：</label></td>

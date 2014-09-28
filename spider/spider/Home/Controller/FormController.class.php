@@ -60,7 +60,7 @@ class FormController extends Controller {
         if($Form->create()) {
             $result =  $Form->save();
             if($result) {
-                $this->success('更新成功！','../../show');
+                $this->success('更新成功！',__URL__.'/show');
             }else{
                 dump($data);
                 $this->error('更新失败！');

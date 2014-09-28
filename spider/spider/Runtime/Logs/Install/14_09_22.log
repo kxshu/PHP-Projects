@@ -1,0 +1,904 @@
+[ 2014-09-22T13:23:39+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 37 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 37 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 37 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2014-09-22T13:24:58+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 42 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 42 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 42 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2014-09-22T13:25:43+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 46 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 46 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 46 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2014-09-22T13:26:03+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2014-09-22T13:26:44+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2014-09-22T13:29:13+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2014-09-22T13:29:29+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 54 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2014-09-22T13:30:32+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2014-09-22T13:30:43+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2014-09-22T13:31:20+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2014-09-22T13:32:44+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2014-09-22T13:54:37+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2014-09-22T13:54:55+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2014-09-22T14:00:53+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2014-09-22T14:01:36+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2014-09-22T14:02:31+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000532s ]
+
+[ 2014-09-22T14:03:02+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+NOTIC: [8] Undefined offset: 4 /Users/kx/workspace/php/spider/spider/Runtime/Cache/Install/9d897faa42bdb73a2d0fb370e9560aba.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2014-09-22T14:03:25+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2014-09-22T14:03:37+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2014-09-22T14:03:47+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2014-09-22T14:12:15+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2014-09-22T14:12:49+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2014-09-22T14:14:58+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2014-09-22T14:15:09+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2014-09-22T14:15:36+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2014-09-22T14:16:08+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2014-09-22T14:16:28+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2014-09-22T14:16:38+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2014-09-22T14:16:47+08:00 ] 127.0.0.1 /spider/index.php/install/install/step2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+ERR: 非法操作:step2
+
+[ 2014-09-22T14:17:28+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2014-09-22T14:23:38+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2014-09-22T14:23:47+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:23:50+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:31:35+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:31:37+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:31:53+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:31:55+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:32:03+08:00 ] 127.0.0.1 /spider/index.php/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载控制器:Step2
+
+[ 2014-09-22T14:32:29+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2014-09-22T14:32:42+08:00 ] 127.0.0.1 /spider/index.php/Install/install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2014-09-22T14:36:44+08:00 ] 127.0.0.1 /spider/index.php/install/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given /Users/kx/workspace/php/spider/spider/Install/Common/function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2014-09-22T14:36:59+08:00 ] 127.0.0.1 /spider/index.php/install/install/step2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2014-09-22T14:39:50+08:00 ] 127.0.0.1 /spider/index.php/install/install/step2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+

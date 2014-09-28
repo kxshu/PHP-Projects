@@ -1,0 +1,17 @@
+[ 2014-09-17T17:31:36+08:00 ] 127.0.0.1 /spider/index.php/install/step1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2014-09-17T18:09:39+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+ERR: 无法加载模块:Reg2
+
+[ 2014-09-17T18:13:54+08:00 ] 127.0.0.1 /spider/index.php/reg2/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Reg2
+

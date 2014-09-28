@@ -6,9 +6,9 @@
 </head>
 <body>
 
-	<a href="/spider/index.php/Home/Form/show">【查看数据】</a>
+	<a href="/spider/index.php/Index/show">【查看数据】</a>
 	<hr/>
-	<form method="post" action="/spider/index.php/Home/Form/insert">
+	<form method="post" action="/spider/index.php/Index/insert">
 		<table>
 			<tr>
 				<td><label for="#">网站名：</label></td>

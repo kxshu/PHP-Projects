@@ -1,0 +1,28 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>reg</title>
+</head>
+<body>
+	<form method="post" action="/spider/index.php/Home/Reg/add">
+		<table>
+			<tr>
+				<td><label for="#">用户名：</label></td>
+				<td><input name="Name" type="text"></td>
+			</tr>
+			<tr>
+				<td><label for="#">昵称：</label></td>
+				<td><input name="NickName" type="text"></td>
+			</tr>
+			<tr>
+				<td><label for="#">密码：</label></td>
+				<td><input name="Password" type="password"></td>
+			</tr>
+			<tr>
+				<td colspan="2"><button type="submit">提交</button></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

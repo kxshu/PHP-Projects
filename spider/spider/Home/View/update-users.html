@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>update users</title>
+</head>
+<body>
+
+	<a href="__URL__/show">【查看用户】</a>
+	<hr/>
+	<form method="post" action="__URL__/update/id/{$_GET['id']}">
+		<table>
+			<tr>
+				<td><label for="#">用户昵称：</label></td>
+				<td><input name="NickName" type="text"></td>
+			</tr>
+			<tr>
+				<td><label for="#">用户密码：</label></td>
+				<td><input name="Password" type="text"></td>
+			</tr>
+			<tr>
+				<td colspan="2"><button type="submit">提交</button></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
