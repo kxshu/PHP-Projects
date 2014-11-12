@@ -1,0 +1,20 @@
+[ 2014-10-30T15:46:18+08:00 ] 127.0.0.1 /task-tool/index.php/home/index/getProjects/UserID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2014-10-30T15:47:02+08:00 ] 127.0.0.1 /task-tool/index.php/home/index/getProjects/UserID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2014-10-30T15:47:16+08:00 ] 127.0.0.1 /task-tool/index.php/home/index/getProjects/UserID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2014-10-30T15:47:43+08:00 ] 127.0.0.1 /task-tool/index.php/home/index/getProjects/UserID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+

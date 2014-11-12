@@ -1,0 +1,603 @@
+[ 2014-11-04T21:19:58+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Connection refused /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Connection refused
+
+[ 2014-11-04T21:20:14+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.007890s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.002978s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.003315s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.002497s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.003961s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="进行中" and ProjectID=2 )  [ RunTime:0.000282s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000192s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2014-11-04T21:20:29+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.008901s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001360s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000267s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="已中断" and ProjectID=2 )  [ RunTime:0.000236s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000214s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2014-11-04T21:20:31+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.009153s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001057s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000332s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="进行中" and ProjectID=2 )  [ RunTime:0.000304s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000217s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2014-11-04T21:20:32+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.010320s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001153s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000264s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="已完成" and ProjectID=2 )  [ RunTime:0.000232s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000205s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2014-11-04T21:20:33+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.008879s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001133s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000356s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000507s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=2 )  [ RunTime:0.000285s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2014-11-04T21:20:35+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.010224s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.002447s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001218s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000264s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=2 )  [ RunTime:0.000258s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000199s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2014-11-04T21:20:37+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.010238s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001610s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001270s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000363s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000293s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=1 )  [ RunTime:0.000203s ]
+SQL: SELECT * FROM `projects` WHERE ( id=1 )  [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2014-11-04T21:21:29+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001172s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000324s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000285s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=1 )  [ RunTime:0.000202s ]
+SQL: SELECT * FROM `projects` WHERE ( id=1 )  [ RunTime:0.000226s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2014-11-04T21:21:31+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.009569s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.002417s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.002780s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000272s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=2 )  [ RunTime:0.000257s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2014-11-04T21:22:41+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.001276s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001037s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000336s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000272s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="进行中" and ProjectID=2 )  [ RunTime:0.000223s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2014-11-04T21:22:42+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.009699s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001407s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001118s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000203s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000201s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="已中断" and ProjectID=2 )  [ RunTime:0.000157s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000131s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2014-11-04T21:22:43+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.009044s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001074s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000236s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000224s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="已完成" and ProjectID=2 )  [ RunTime:0.000193s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2014-11-04T21:22:43+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.008849s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001328s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001069s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000237s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000288s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="进行中" and ProjectID=2 )  [ RunTime:0.000245s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000196s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2014-11-04T21:22:44+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.008335s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001022s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000275s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=2 )  [ RunTime:0.000279s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2014-11-04T21:23:10+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2/Status/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.009170s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001732s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.000984s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000267s ]
+SQL: SELECT * FROM `tasks` WHERE ( Status="已中断" and ProjectID=2 )  [ RunTime:0.000233s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000206s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2014-11-04T21:23:11+08:00 ] 127.0.0.1 /task-tool/index.php/Home/Index/getProjects/ProjectID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/kx/workspace/php/task-tool/Core/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.008858s ]
+SQL: SHOW COLUMNS FROM `tasks` [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `projects` [ RunTime:0.001101s ]
+SQL: SELECT * FROM `users` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000223s ]
+NOTIC: [8] Undefined index: mapping_order /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit /Users/kx/workspace/php/task-tool/Core/Library/Think/Model/RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM Users_Projects AS a, projects AS b WHERE a.ProjectID = b.id AND a. UserID='1' [ RunTime:0.000264s ]
+SQL: SELECT * FROM `tasks` WHERE ( ProjectID=2 )  [ RunTime:0.000203s ]
+SQL: SELECT * FROM `projects` WHERE ( id=2 )  [ RunTime:0.000140s ]
+NOTIC: [8] Undefined variable: Author /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Owner /Users/kx/workspace/php/task-tool/APP/Home/Controller/IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 68 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 69 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 70 行.
+NOTIC: [8] Undefined index: Status /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 71 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+NOTIC: [8] Use of undefined constant 已中断 - assumed '已中断' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 107 行.
+NOTIC: [8] Use of undefined constant 进行中 - assumed '进行中' /Users/kx/workspace/php/task-tool/APP/Runtime/Cache/Home/055246b2d9a1e294b1ad933b2d9ffacb.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+

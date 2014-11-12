@@ -1,0 +1,102 @@
+.commonCalendar {
+	overflow: hidden;
+}
+.commonCalendar.hide{
+	display: none;
+}
+.commonCalendarDefault {
+	background: #fff;
+	color: #9d9d9d;
+}
+.commonCalendarDefault .c_title{
+	overflow: hidden;
+	zoom: 1;
+	padding: 5px;
+	border-bottom: 1px solid #dddcd9;
+	margin-bottom: 5px;
+}
+.commonCalendarDefault .c_title .c_pre{
+	border-right: 10px solid #face75 !important;
+	cursor: pointer;
+}
+.commonCalendarDefault .c_title .c_preN{
+	border-right: 10px solid #face75 !important;
+	cursor: pointer;
+}
+.commonCalendarDefault .c_title .c_time{
+	float: left;
+	text-align: center;
+	width: 70px;
+	height: 20px;
+	line-height: 20px;
+	color: #333;
+}
+.commonCalendarDefault .c_title .c_next{
+	border-left: 10px solid #face75 !important;
+	cursor: pointer;
+}
+.commonCalendarDefault .c_title .c_nextN{
+	border-left: 10px solid #face75 !important;
+	cursor: pointer;
+}
+.commonCalendarDefault .c_title .c_pre,
+.commonCalendarDefault .c_title .c_next{
+	float: right;
+	border: 10px solid #fff;
+}
+.commonCalendarDefault .c_title .c_preN,
+.commonCalendarDefault .c_title .c_nextN{
+	float: left;
+	border: 10px solid #fff;
+}
+.commonCalendarDefault .c_table{
+	border-collapse: collapse;
+	width: 100%;
+}
+.commonCalendarDefault .c_table .c_th{
+	font-weight: bold;
+	color: #333;
+}
+.commonCalendarDefault .hide{
+	display: none;
+}
+.commonCalendarDefault .c_table .c_tr{
+
+}
+.commonCalendarDefault .c_table .c_tr .c_td{
+	text-align: center;
+	height: 35px;
+	line-height: 35px;
+	cursor: pointer;
+}
+.commonCalendarDefault .c_table .c_tr .c_curDay{
+	color: #fff;
+	background: #f16767;
+	border-radius: 50%;
+}
+.commonCalendarDefault .c_table .c_tr .c_none{
+	
+}
+.commonCalendarDefault .c_curTime{
+	text-align: center;
+	padding: 3px 0;
+	border: 1px solid #ddd;
+	border-top: 0;
+	overflow: hidden;
+	zoom: 1;
+}
+.commonCalendarDefault .c_curTime .c_span{
+	float: left;
+	height: 20px;
+	line-height: 20px;
+	margin-left: 5px;
+}
+.commonCalendarDefault .c_curTime .c_btn{
+	
+	height: 20px;
+	border: 1px solid #ddd;
+	background: #f2f2f2;
+	float: right;
+	cursor: pointer;
+	color: #333;
+}
